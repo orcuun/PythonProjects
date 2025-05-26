@@ -72,30 +72,3 @@ It simulates a tea house menu, allowing the user to input item quantities, calcu
 
 
 
-🔐 Simple Login System – Python (Tkinter)
-This is a basic Login System developed using Python and Tkinter. 
-It provides a graphical interface for users to input their username and password, and verifies them against predefined credentials (or optionally external storage like a file or database).
-
-
-💡 Purpose
-This project was created for educational purposes to understand how GUI elements work in Tkinter, and how to implement basic authentication logic in a desktop application.
-
-
-🛠️ Technologies Used
--Python 
-
--Tkinter (GUI)
-
--Basic file handling or string comparison (for user validation)
-
-
-⚙️ Features
--User-friendly login window
-
--Username and password input fields
-
--Basic validation logic
-
--Easy to expand with file/database support
-
--Lightweight and beginner-friendly
